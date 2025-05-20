@@ -34,7 +34,10 @@ An Android application built using **Kotlin** that helps students manage their c
 ## 📷 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](screenshots/login_screen.png)
+![Login Screen](screenshots/login.png)
+
+### 📄 Document Upload
+![Document Upload](screenshots/document.png)
 
 ## 🚀 Getting Started
 
